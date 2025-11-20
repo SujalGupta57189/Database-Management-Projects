@@ -323,6 +323,7 @@ INSERT INTO salesrepresentatives (salesrep_id, first_name, last_name, email, pho
 (18, 'Sai', 'Chatterjee', 'sai.chatterjee18@crmco.com', '9368971071', 'Channel Partners'),
 (19, 'Reyansh', 'Chatterjee', 'reyansh.chatterjee19@crmco.com', '7015082539', 'Enterprise Sales'),
 (20, 'Manya', 'Desai', 'manya.desai20@crmco.com', '9102217525', 'Inside Sales');
+
 create table products (
 products_id int primary key,
 product_name varchar(100),
@@ -1286,5 +1287,3 @@ INSERT INTO tasks (task_id, description, due_date, status, priority, assigned_to
 	(138, 'Configure integration', '2025-12-24', 'In Progress', 'Low', 8),
 	(139, 'Send price quote', '2026-01-31', 'Done', 'Medium', 14),
 	(140, 'Configure integration', '2025-06-03', 'Open', 'High', 2);
-
-select * from tasks;
