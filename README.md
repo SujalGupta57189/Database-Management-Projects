@@ -15,7 +15,9 @@ Key Highlights:
   Compatibility: Schema avoids ENGINE=InnoDB and AUTO_INCREMENT for flexibility with any MySQL storage engine.
   Realistic Data: Names, addresses, phone numbers, and dates modeled on real-world patterns.
   Reporting Queries: Includes examples for lead pipeline, product sales, and task distribution.
+
 i<img width="988" height="726" alt="ER image" src="https://github.com/user-attachments/assets/07e82aff-8448-4fb6-a005-b5d63b327a5d" />
+
 Why This Project?
 CRM systems are essential for businesses to manage relationships, improve sales efficiency, and analyze performance. This project provides a hands-on SQL implementation suitable for:
 
